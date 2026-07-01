@@ -1,0 +1,7 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+          0           1           2           3
+          1           2           3           4
+          2           3           4           5
+          3           4           5           6
+$finish called at time : 195 ns : File "D:/A/DigitalDesign/SystolicArray/SystolicArray.srcs/sim_1/new/testbenchv3.sv" Line 49

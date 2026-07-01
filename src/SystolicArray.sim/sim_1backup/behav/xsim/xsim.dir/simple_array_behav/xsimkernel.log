@@ -1,0 +1,4 @@
+Running: xsim.dir/simple_array_behav/xsimk.exe -simmode gui -wdb simple_array_behav.wdb -simrunnum 0 -socket 19017
+Design successfully loaded
+Design Loading Memory Usage: 6608 KB (Peak: 6608 KB)
+Design Loading CPU Usage: 31 ms
